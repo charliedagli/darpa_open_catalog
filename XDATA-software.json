@@ -1979,6 +1979,8 @@
         ],
         "Software":"Query By Example (Graph QuBE)",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+        "External Link":"https://github.com/mitll/graph-qube",
+        "Public Code Repo":"https://github.com/mitll/graph-qube.git",
         "Instructional Material":"",
         "Stats":"",
         "Description":"Graph QuBE is a tool which enables efficient pattern-of-behavior search in data containing entities transacting over time.",
